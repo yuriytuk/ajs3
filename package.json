@@ -1,0 +1,19 @@
+{
+  "name": "@yuriytuk/ajs3",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yuriytuk/ajs3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriytuk/ajs3/issues"
+  },
+  "homepage": "https://github.com/yuriytuk/ajs3#readme",
+  "description": ""
+}
